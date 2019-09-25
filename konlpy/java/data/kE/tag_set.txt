@@ -1,9 +1,9 @@
 @title	KIBSTAGS
 @version	v1.001
-@copyright	(C) kaist, 1995-2010
-@author	김재훈, 최기선, 김덕봉, 최병진, 한영균, 남영준, 박석문, 김진규, 김진수, 이춘택
-@date	1996.7.11
-@editor	이운재, 박상원
+@copyright	(C) kaist, 2019
+@author	정우
+@date	2019.09.25
+@editor	정우
 
 TAG	sp		// 쉼표
 TAG	sf		// 마침표
@@ -132,7 +132,7 @@ IRR	irrle			// 러 불규칙
 IRR	chmust			// 반드시 축약
 IRR	chnot			// 축약 없음
 IRR	chmay			// 축약 가능
-IRR	except			// 예외 (특히 모음조화)
+IRR	except			// 례외 (특히 모음조화)
 IRR	irrb_except		// ㅂ 불규칙 & 모음조화 예외 
 IRR	yut				// 사임 첨가
 IRR	gaet

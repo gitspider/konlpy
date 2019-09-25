@@ -8,6 +8,5 @@
 서충원	ncn
 우체통	ncn
 의미	ncpa
-이신목	nqpc
 자동사	ncn
 ·	sy
