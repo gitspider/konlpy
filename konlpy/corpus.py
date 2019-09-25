@@ -50,4 +50,4 @@ class CorpusLoader():
 
 
 kolaw = CorpusLoader('kolaw')
-kobill = CorpusLoader('kobill')
+novel = CorpusLoader('novel')
