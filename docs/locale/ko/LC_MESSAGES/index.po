@@ -13,7 +13,7 @@ msgstr ""
 
 #: ../../index.rst:2
 msgid "KoNLPy: Korean NLP in Python"
-msgstr "KoNLPy: 파이썬 한국어 NLP"
+msgstr "KoNLPy: Python 조선어 NLP"
 
 #: ../../index.rst:14
 msgid ""
@@ -21,12 +21,12 @@ msgid ""
 "language processing (NLP) of the Korean language. For installation "
 "directions, see :doc:`here <install>`."
 msgstr ""
-"KoNLPy(\"코엔엘파이\"라고 읽습니다)는 한국어 정보처리를 위한 파이썬 패키지입니다. 설치법은 :doc:`이 곳을 "
-"<install>` 참고해주세요."
+"KoNLPy(\"코엔엘파이\"라고 읽습니다)는 조선어 정보처리를 위한 Python 패키지입니다. 설치법은 :doc:`이 곳을 "
+"<install>` 참고해주십시오."
 
 #: ../../index.rst:57
 msgid "Standing on the shoulders of giants"
-msgstr "거인의 어깨 위에 서기"
+msgstr "거인의 어깨우에 서기"
 
 #: ../../index.rst:59
 msgid ""
@@ -36,9 +36,9 @@ msgid ""
 "numerous researchers, to computationally extract meaningful features from "
 "the labyrinthine text."
 msgstr ""
-"아름답지만 다소 복잡하기도한 `한국어는 전세계에서 13번째로 많이 사용되는 언어입니다. "
+"아름답지만 다소 복잡하기도한 `조선어는 전세계에서 13번째로 많이 사용되는 언어입니다. "
 "<http://www.koreatimes.co.kr/www/news/nation/2014/05/116_157214.html>`_ "
-"복잡미묘한 한국어 텍스트에서 유용한 특성을 추출하기 위해 그 동안 :ref:`수많은 한국어 정보처리 도구가 <engines>` 개발되기도"
+"복잡미묘한 조선어 본문에서 유용한 특성을 추출하기 위해 그 동안 :ref:`수많은 조선어 정보처리 도구가 <engines>` 개발되기도"
 " 했습니다."
 
 #: ../../index.rst:62
@@ -50,10 +50,10 @@ msgid ""
 "modules and applicability to various tasks - including crawling, Web "
 "programming, and data analysis."
 msgstr ""
-"KoNLPy는 같은 기능을 하는 또 하나의 도구를 만들려는 것이 아닙니다. 그보다는, 현존하는 도구 위에 한 층을 쌓아 더 멀리 "
-"내다보려는 것입니다. 또한 KoNLPy는 `파이썬 <http://python.org>`_ 프로그래밍 언어로 사용할 수 있도록 "
-"만들어졌는데, 그것은 파이썬이 간결하고 우아한 문법구조, 강력한 스트링 연산 기능을 가지고 있을 뿐 아니라 크롤링, 웹프로그래밍, 그리고"
-" 데이터 분석을 수행할 수 있는 다양한 패키지를 사용할 수 있는 언어이기 때문입니다."
+"KoNLPy는 같은 기능을 하는 또 하나의 도구를 만들려는 것이 아닙니다. 그보다는, 현존하는 도구우에 한층을 쌓아 더 멀리 "
+"내다보려는 것입니다. 또한 KoNLPy는 `Python <http://python.org>`_ 프로그람작성언어로 사용할 수 있도록 "
+"만들어졌는데, 그것은 Python이 간결하고 우아한 문법구조, 강력한 스트링 연산 기능을 가지고 있을 뿐 아니라 크롤링, 웹프로그람작성, 그리고"
+" 자료분석을 수행할 수 있는 다양한 패키지를 사용할 수 있는 언어이기 때문입니다."
 
 #: ../../index.rst:65
 msgid "The three main philosophies of this project are:"
@@ -65,7 +65,7 @@ msgstr "사용법이 간단해야 한다."
 
 #: ../../index.rst:69
 msgid ":ref:`\"Democracy on the web works.\" <contribute>`"
-msgstr ":ref:`\"인터넷 민주주의는 효과적이다.\" <contribute>`"
+msgstr ":ref:`\"인터네트 민주주의는 효과적이다.\" <contribute>`"
 
 #: ../../index.rst:74
 msgid "License"
@@ -112,7 +112,7 @@ msgstr ":doc:`changelog`"
 #: ../../index.rst:76
 msgid ""
 "KoNLPy is Open Source Software, and is released under the license below:"
-msgstr "KoNLPy는 오픈소스 소프트웨어이며, 아래의 라이센스를 채택하고 있습니다:"
+msgstr "KoNLPy는 원천공개 쏘프트웨어이며, 아래의 라이센스를 채택하고 있습니다:"
 
 #: ../../index.rst:84
 msgid "Here is a BibTeX entry.::"
@@ -122,7 +122,7 @@ msgstr "BibTeX는 아래의 코드를 사용하시면 됩니다.::"
 msgid ""
 "You are welcome to use the code under the terms of the license, however "
 "please acknowledge its use with a citation."
-msgstr "라이센스에 따라 자유롭게 코드를 이용하실 수 있으며, 연구에 KoNLPy를 사용하신 경우 아래 논문을 인용해주시기 바랍니다."
+msgstr "라이센스에 따라 자유롭게 코드를 리용하실 수 있으며, 연구에 KoNLPy를 사용하신 경우 아래 론문을 인용해주시기 바랍니다."
 
 #: ../../index.rst:82
 msgid ""
@@ -132,9 +132,9 @@ msgid ""
 " of the 26th Annual Conference on Human & Cognitive Language Technology, "
 "Chuncheon, Korea, Oct 2014."
 msgstr ""
-"박은정, 조성준, \"`KoNLPy: 쉽고 간결한 한국어 정보처리 파이썬 패키지 "
-"<http://dmlab.snu.ac.kr/~lucypark/docs/2014-10-10-hclt.pdf>`_\", 제 26회 한글 및 "
-"한국어 정보처리 학술대회 논문집, 2014."
+"\"`KoNLPy: 쉽고 간결한 조선어 정보처리 Python 패키지 "
+"<http://dmlab.snu.ac.kr/~lucypark/docs/2014-10-10-hclt.pdf>`_\", 제 26회 조선글 및 "
+"조선어 정보처리 학술대회 론문집, 2014."
 
 #: ../../index.rst:117
 msgid ""
@@ -142,8 +142,8 @@ msgid ""
 "contribution*, because it gives the community feedback as well as ideas. "
 "Don't hesitate to ask."
 msgstr ""
-"무엇보다, 질문하는 것만으로도 엄청난 기여라는 점을 알아주세요! 질문은 개발 커뮤니티에 피드백을 주는 가장 직접적이면서도 쉬운 방법이고,"
-" 아이디어의 원천도 됩니다."
+"무엇보다, 질문하는 것만으로도 엄청난 기여라는 점을 알아주십시오! 질문은 개발 커뮤니티에 피드백을 주는 가장 직접적이면서도 쉬운 방법이고,"
+" 착상의 원천도 됩니다."
 
 #: ../../index.rst:141
 msgid "Getting started"
@@ -155,28 +155,28 @@ msgid ""
 "follow the :ref:`guide`. For specific descriptions of each module, go see "
 "the :ref:`api` documents."
 msgstr ""
-"NLP를 처음 시작하시는 분들은 :ref:`start` 에서 가볍게 기본 지식을 습득할 수 있으며, KoNLPy의 사용법 가이드는 "
+"NLP를 처음 시작하시는 분들은 :ref:`start` 에서 가볍게 기본 지식을 습득할 수 있으며, KoNLPy의 사용법안내는 "
 ":ref:`guide`, 각 모듈의 상세사항은 :ref:`api` 문서에서 보실 수 있습니다."
 
 #: ../../index.rst:71
 msgid ""
-"Please `report <https://github.com/konlpy/konlpy/issues>`_ when you think "
+"Please `report <https://github.com/gitspider/konlpy/issues>`_ when you think "
 "any have gone stale."
 msgstr ""
-"위의 항목 중 하나라도 어긋나는 것이 있다면 `제보 부탁드립니다 "
-"<https://github.com/konlpy/konlpy/issues>`_."
+"우의 항목 중 하나라도 어긋나는것이 있다면 `제보 부탁드립니다 "
+"<https://github.com/gitspider/konlpy/issues>`_."
 
 #: ../../index.rst:104
 msgid ""
 "Found a bug? Have a good idea for improving KoNLPy? Visit the `KoNLPy GitHub"
-" page <https://github.com/konlpy/konlpy>`_ and `suggest an idea "
-"<https://github.com/konlpy/konlpy/issues>`_ or `make a pull request "
-"<https://github.com/konlpy/konlpy/pulls>`_."
+" page <https://github.com/gitspider/konlpy>`_ and `suggest an idea "
+"<https://github.com/gitspider/konlpy/issues>`_ or `make a pull request "
+"<https://github.com/gitspider/konlpy/pulls>`_."
 msgstr ""
-"버그를 찾으셨나요? KoNLPy를 발전시킬 좋은 방법이 떠오르시나요? `KoNLPy 깃헙 페이지 "
-"<https://github.com/konlpy/konlpy>`_ 를 방문해서 `아이디어를 제안해주시거나 "
-"<https://github.com/konlpy/konlpy/issues>`_ `풀리퀘스트를 보내주세요. "
-"<https://github.com/konlpy/konlpy/pulls>`_"
+"버그를 찾으셨나요? KoNLPy를 발전시킬 좋은 방법이 떠오르시나요? `KoNLPy Github 페지 "
+"<https://github.com/gitspider/konlpy>`_ 를 방문해서 `착상를 제안해주시거나 "
+"<https://github.com/gitspider/konlpy/issues>`_ `풀리퀘스트를 보내주십시오. "
+"<https://github.com/gitspider/konlpy/pulls>`_"
 
 #: ../../index.rst:110
 msgid ""
@@ -192,7 +192,7 @@ msgstr ""
 
 #: ../../index.rst:68
 msgid "Make it easy. For humans."
-msgstr "누구나 쉽게 이용할 수 있어야 한다."
+msgstr "누구나 쉽게 리용할 수 있어야 한다."
 
 #: ../../index.rst:78
 msgid "`GPL v3 or above <http://gnu.org/licenses/gpl.html>`_"

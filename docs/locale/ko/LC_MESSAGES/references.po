@@ -19,13 +19,13 @@ msgstr "참고문헌"
 #: ../../references.rst:9
 msgid ""
 "Please `modify this document "
-"<https://github.com/konlpy/konlpy/blob/master/docs/references.rst>`_ if "
+"<https://github.com/gitspider/konlpy/blob/master/docs/references.rst>`_ if "
 "anything is erroneous or not included. Last updated at |today|."
 msgstr ""
 
 #: ../../references.rst:15
 msgid "Korean morpheme analyzer tools"
-msgstr "한국어 형태소 분석기"
+msgstr "조선어 형태소 분석기"
 
 #: ../../references.rst:17
 msgid ""
@@ -33,8 +33,8 @@ msgid ""
 "perform is morphological analysis. There are several libraries in various"
 " programming languages to achieve this:"
 msgstr ""
-"한국어 텍스트를 분석할 때 가장 기본적으로 행해야하는 것은 형태소 분석입니다. 이를 위해 다양한 프로그래밍 언어로 된 여러 "
-"라이브러리가 있습니다:"
+"조선어 본문를 분석할 때 가장 기본적으로 실행해야 하는것은 형태소분석입니다. 이를 위해 다양한 프로그람작성언어로 된 여러 "
+"서고가 있습니다:"
 
 #: ../../references.rst:21
 msgid "C/C++"
@@ -55,18 +55,18 @@ msgstr ""
 
 #: ../../references.rst:25
 msgid ""
-"신준철, 옥철영, `기분석 부분 어절 사전을 활용한 한국어 형태소 분석기 (A Korean Morphological Analyzer"
+"`기분석 부분 어절 사전을 활용한 조선어 형태소 분석기 (A Korean Morphological Analyzer"
 " using a Pre-analyzed Partial Word-phrase Dictionary) "
-"<http://www.dbpia.co.kr/Journal/ArticleDetail/NODE01873335>`_, 정보과학회논문지: "
-"소프트웨어 및 응용, 제39권 제5호, 2012."
+"<http://www.dbpia.co.kr/Journal/ArticleDetail/NODE01873335>`_, 정보과학회론문지: "
+"쏘프트웨어 및 응용, 제39권 제5호, 2012."
 msgstr ""
 
 #: ../../references.rst:26
 msgid ""
-"신준철, 옥철영, `한국어 품사 및 동형이의어 태깅을 위한 단계별 전이모델 (A Stage Transition Model for "
+"`조선어 품사 및 동형이의어 태깅을 위한 단계별 전이모델 (A Stage Transition Model for "
 "Korean Part-of-Speech and Homograph Tagging) "
-"<http://www.dbpia.co.kr/Journal/ArticleDetail/NODE02033338>`_, 정보과학회논문지: "
-"소프트웨어 및 응용, 제39권 제11호, 2012."
+"<http://www.dbpia.co.kr/Journal/ArticleDetail/NODE02033338>`_, 정보과학회론문지: "
+"쏘프트웨어 및 응용, 제39권 제11호, 2012."
 msgstr ""
 
 #: ../../references.rst:27
@@ -76,7 +76,7 @@ msgstr ""
 #: ../../references.rst:28
 msgid ""
 "`MACH <http://cs.sungshin.ac.kr/~shim/demo/mach.html>`_ (2002) - By "
-"Kwangseob Shim (성신여대) :license:`custom`"
+" :license:`custom`"
 msgstr ""
 
 #: ../../references.rst:29
@@ -87,19 +87,19 @@ msgstr ""
 
 #: ../../references.rst:33
 msgid ""
-"`KTS <http://wiki.kldp.org/wiki.php/KTS>`_ (1995) - By 이상호, 서정연, 오영환 "
-"(KAIST) :license:`GPL v2`"
+"`KTS <http://wiki.kldp.org/wiki.php/KTS>`_ (1995) "
+" :license:`GPL v2`"
 msgstr ""
 
 #: ../../references.rst:31
 msgid ""
-"이상호, `KTS: Korean Tagging System Manual (Version 0.9) "
+"`KTS: Korean Tagging System Manual (Version 0.9) "
 "<https://wiki.kldp.org/wiki.php/KTS?action=download&value=ktsmanual.pdf>`_"
 msgstr ""
 
 #: ../../references.rst:32
 msgid ""
-"김재훈, 서정연, `자연언어 처리를 위한 한국어 품사 태그 (A Korean part-of-speech tag set for "
+"`자연언어처리를 위한 조선어 품사태그 (A Korean part-of-speech tag set for "
 "natural language processing) "
 "<https://wiki.kldp.org/wiki.php/KTS?action=download&value=tag-set.pdf>`_,"
 " 1993."
@@ -134,9 +134,9 @@ msgstr ""
 
 #: ../../references.rst:41
 msgid ""
-"이동주, 연종흠, 황인범, 이상구, `꼬꼬마: 관계형 데이터베이스를 활용한 세종 말뭉치 활용 도구 "
-"<http://ids.snu.ac.kr/w/images/f/f8/CPL2010-therocks.pdf>`_, 정보과학회논문지: "
-"컴퓨팅의 실제 및 레터, Volume 16, No.11, 2010."
+"`꼬꼬마: 관계형자료기지를 활용한 세종 코퍼스 활용 도구 "
+"<http://ids.snu.ac.kr/w/images/f/f8/CPL2010-therocks.pdf>`_, 정보과학회론문지: "
+"콤퓨팅의 실제 및 레터, Volume 16, No.11, 2010."
 msgstr ""
 
 #: ../../references.rst:42
@@ -163,7 +163,7 @@ msgstr ""
 
 #: ../../references.rst:48
 msgid "Python"
-msgstr "파이썬"
+msgstr "Python"
 
 #: ../../references.rst:52
 msgid "`KoNLPy <http://konlpy.org>`_ (2014) :license:`GPL v3+`"
@@ -243,7 +243,7 @@ msgstr ""
 
 #: ../../references.rst:78
 msgid "Corpora"
-msgstr "말뭉치"
+msgstr "코퍼스"
 
 #: ../../references.rst:80
 msgid ""
@@ -253,11 +253,11 @@ msgstr ""
 
 #: ../../references.rst:81
 msgid "Korea University Korean Corpus, 1995."
-msgstr "고려대학교 한국어 말뭉치, 1995"
+msgstr "조선어 코퍼스, 1995"
 
 #: ../../references.rst:82
 msgid "10M tokens of Korean of 1970-90s"
-msgstr "1970-90년대 한국어에 대한 1000만 어절"
+msgstr "1970-90년대 조선어에 대한 1000만 어절"
 
 #: ../../references.rst:84
 msgid ""
@@ -277,12 +277,12 @@ msgstr "QA를 위한 50개의 TREC 형태 질의"
 msgid ""
 "`HKIB-40075 "
 "<http://www.kristalinfo.com/TestCollections/readme_hkib.html>`_, KISTI & "
-"한국일보, 2002."
+"2002."
 msgstr ""
 
 #: ../../references.rst:87
 msgid "40,075 test documents for text categorization (88MB)"
-msgstr "텍스트 분류를 위한 40,075 테스트 문서 (88MB)"
+msgstr "본문 분류를 위한 40,075 테스트 문서 (88MB)"
 
 #: ../../references.rst:88
 msgid ""
@@ -298,16 +298,12 @@ msgid ""
 msgstr ""
 
 #: ../../references.rst:90
-msgid "Yonsei Corpus, 연세대, 1987."
-msgstr "연세 말뭉치, 연세대, 1987."
+msgid "Yonsei Corpus, 1987."
+msgstr "연세 코퍼스, 1987."
 
 #: ../../references.rst:91
 msgid "42M tokens of Korean since the 1960s"
-msgstr "1960년 이후 한국어에 대한 4200만 어절"
-
-#: ../../references.rst:92
-msgid "`BoRA 언어자원은행 <http://semanticweb.kaist.ac.kr/org/bora/>`_, KAIST"
-msgstr ""
+msgstr "1960년 이후 조선어에 대한 4200만 어절"
 
 #: ../../references.rst:95
 msgid "Other NLP tools"
@@ -352,7 +348,7 @@ msgstr ""
 
 #: ../../references.rst:104
 msgid "Language parser"
-msgstr "언어 파서"
+msgstr "언어 해석기"
 
 #: ../../references.rst:105
 msgid ""
@@ -387,9 +383,6 @@ msgstr ""
 #~ msgid "`KTS <http://wiki.kldp.org/wiki.php/KTS>`_ (1995) :license:`GPL v2`"
 #~ msgstr ""
 
-#~ msgid "By 이상호, 서정연, 오영환 (KAIST & 서강대)"
-#~ msgstr "이상호, 서정연, 오영환 (KAIST & 서강대)"
-
 #~ msgid "`code <https://github.com/suapapa/kts>`_"
 #~ msgstr ""
 
@@ -398,8 +391,6 @@ msgstr ""
 #~ "(2002) :license:`custom`"
 #~ msgstr ""
 
-#~ msgid "By Prof. Kwangseob Shim (성신여대)"
-#~ msgstr "심광섭 (성신여대)"
 
 #~ msgid ""
 #~ "`MeCab-ko <https://bitbucket.org/eunjeon/mecab-"
@@ -408,18 +399,11 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "By Yong-woon Lee and Youngho Yoo"
-#~ msgstr "이용운, 유영호"
+#~ msgstr ""
 
 #~ msgid "Java"
-#~ msgstr "자바"
+#~ msgstr "Java"
 
-#~ msgid ""
-#~ "`Arirang <http://cafe.naver.com/korlucene>`_ (2009) "
-#~ ":license:`Apache v2`"
-#~ msgstr "`아리랑 <http://cafe.naver.com/korlucene>`_ (2009) :license:`Apache v2`"
-
-#~ msgid "By SooMyung Lee"
-#~ msgstr "이수명"
 
 #~ msgid ""
 #~ "`Hannanum "
@@ -435,11 +419,8 @@ msgstr ""
 #~ msgid "`KKMA <http://kkma.snu.ac.kr>`_ (2010) :license:`GPL v2`"
 #~ msgstr "`꼬꼬마 <http://kkma.snu.ac.kr>`_ (2010) :license:`GPL v2`"
 
-#~ msgid "By Prof. Sang-goo Lee's research team (서울대)"
-#~ msgstr "서울대 이상구 교수 연구팀"
-
 #~ msgid "Generates morpheme candidates using dynamic programming"
-#~ msgstr "동적 프로그래밍을 이용해 형태소 후보를 찾음"
+#~ msgstr "동적 프로그람작성을 리용해 형태소 후보를 찾음"
 
 #~ msgid ""
 #~ "Tags morphemes by checking neighbors, "
@@ -453,8 +434,8 @@ msgstr ""
 #~ msgid "By *shineware*"
 #~ msgstr ""
 
-#~ msgid "By Lucy Park (서울대)"
-#~ msgstr "박은정 (서울대)"
+#~ msgid "By Lucy Park"
+#~ msgstr "박은정"
 
 #~ msgid ""
 #~ "`POSTAG/K "
@@ -468,7 +449,7 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "General NLP resources"
-#~ msgstr "NLP 관련 사이트"
+#~ msgstr "NLP 관련원천"
 
 #~ msgid ""
 #~ "`Google NLP publications "
@@ -484,7 +465,7 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid ""
-#~ "`부산대 NLP 관련사이트 목록 "
+#~ "`NLP 관련사이트 목록 "
 #~ "<http://borame.cs.pusan.ac.kr/ai_home/site/site1.html>`_"
 #~ msgstr ""
 
@@ -500,7 +481,7 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid ""
-#~ "`한글 및 한국어 정보처리 학술대회 "
+#~ "`조선어 정보처리 학술대회 "
 #~ "<http://sites.google.com/site/sighclt/gongjisahang>`_"
 #~ msgstr ""
 

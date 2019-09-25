@@ -26,12 +26,12 @@ KoNLPy
     :alt: License
 
 
-한국어 자연어처리를 할 수 있는 파이썬 패키지입니다.
+조선어 자연어처리를 할 수 있는 파이썬 패키지입니다.
 
 KoNLPy is a Python package for natural language processing of the Korean language. 
 
 - English documentation: http://konlpy.org/en/latest
-- 한국어 문서: http://konlpy.org/ko/latest
+- 조선어 문서: http://konlpy.org/ko/latest
 
 Links
 ------

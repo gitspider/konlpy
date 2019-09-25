@@ -19,7 +19,7 @@ msgstr "후원하기"
 msgid ""
 "If you love KoNLPy, consider supporting the author `on Gittip "
 "<https://www.gittip.com/echojuliett/>`_:"
-msgstr "KoNLPy가 마음에 드셨다면, `Gratipay <https://www.gratipay.com/echojuliett/>`_ 를 통한 후원을 고려해주세요."
+msgstr "KoNLPy가 마음에 드셨다면, `Gratipay <https://www.gratipay.com/echojuliett/>`_ 를 통한 후원을 고려해주십시오."
 
 #: ../../_templates/sidebar-footer.rst:10
 msgid "Translations"
@@ -30,7 +30,7 @@ msgid "`English <http://konlpy.readthedocs.org/en>`_"
 msgstr ""
 
 #: ../../_templates/sidebar-footer.rst:13
-msgid "`한국어 <http://konlpy.readthedocs.org/ko>`_"
+msgid "`조선어 <http://konlpy.readthedocs.org/ko>`_"
 msgstr ""
 
 #: ../../_templates/sidebar-footer.rst:16
@@ -39,7 +39,7 @@ msgstr "유용한 링크"
 
 #: ../../_templates/sidebar-footer.rst:18
 msgid "`KoNLPy @ GitHub <http://github.com/e9t/konlpy>`_"
-msgstr "깃헙에서 KoNLPy 보기"
+msgstr "Github에서 KoNLPy 보기"
 
 #: ../../_templates/sidebar-footer.rst:19
 msgid "`Issue tracker <http://github.com/e9t/konlpy/issues>`_"
@@ -47,4 +47,4 @@ msgstr "이슈트래커"
 
 #: ../../_templates/sidebar-header.rst:6
 msgid "KoNLPy is a Python package for Korean natural language processing."
-msgstr "KoNLPy는 한국어 NLP를 위한 파이썬 패키지입니다."
+msgstr "KoNLPy는 조선어 NLP를 위한 Python 패키지입니다."

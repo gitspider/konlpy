@@ -273,9 +273,9 @@ intersphinx_mapping = {
 }
 
 extlinks = {
-    'commit': ('https://github.com/konlpy/konlpy/commit/%s', ''),
+    'commit': ('https://github.com/gitspider/konlpy/commit/%s', ''),
     'committer': ('https://github.com/%s', ''),
-    'issue': ('https://github.com/konlpy/konlpy/issues/%s', '#'),
+    'issue': ('https://github.com/gitspider/konlpy/issues/%s', '#'),
 }
 
 # i18n

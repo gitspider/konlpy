@@ -4,10 +4,10 @@ Installation
 .. note::
 
     For troubleshooting information, see these pages:
-    `Linux <https://github.com/konlpy/konlpy/issues?q=label%3Alinux>`_.
-    `Mac OS <https://github.com/konlpy/konlpy/issues?q=label%3A"mac+os">`_.
-    `Windows <https://github.com/konlpy/konlpy/issues?q=label%3Awindows>`_.
-    Please record a `"New Issue" <https://github.com/konlpy/konlpy/issues/new>`_ if you have an error that is not listed.
+    `Linux <https://github.com/gitspider/konlpy/issues?q=label%3Alinux>`_.
+    `Mac OS <https://github.com/gitspider/konlpy/issues?q=label%3A"mac+os">`_.
+    `Windows <https://github.com/gitspider/konlpy/issues?q=label%3Awindows>`_.
+    Please record a `"New Issue" <https://github.com/gitspider/konlpy/issues/new>`_ if you have an error that is not listed.
 
 
 Ubuntu

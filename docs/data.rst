@@ -10,8 +10,8 @@ The following corpora are currently available:
 
 1. ``kolaw``: Korean law corpus.
     - constitution.txt
-2. ``kobill``: Korean National Assembly bill corpus. The file ID corresponds to the bill number.
-    - 1809890.txt - 1809899.txt
+2. ``novel``: Korean Youth Literature Novels corpus. The file ID corresponds to the bill number.
+    - 200712.txt - 20141204.txt
 
 For more detailed usage of the corpora, see the :doc:`api/konlpy.corpus`.
 
@@ -20,13 +20,13 @@ For more detailed usage of the corpora, see the :doc:`api/konlpy.corpus`.
     >>> from konlpy.corpus import kolaw
     >>> c = kolaw.open('constitution.txt').read()
     >>> print c[:10]
-    대한민국 헌법
+     헌법
 
-    유구한 역사와
-    >>> from konlpy.corpus import kobill
-    >>> d = kobill.open('1809890.txt').read()
+    유구한 력사와
+    >>> from konlpy.corpus import novel
+    >>> d = novel.open('200805.txt').read()
     >>> print d[:15]
-    지방공무원법 일부개정법률안
+    단편력사소설 부산진하늘가에
 
 
 .. _dictionaries:

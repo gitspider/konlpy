@@ -1,13 +1,13 @@
 Change logs
 ===========
 
-`Version 0.5.1 <https://github.com/konlpy/konlpy/releases/tag/v0.5.1>`_
+`Version 0.5.1 <https://github.com/gitspider/konlpy/releases/tag/v0.5.1>`_
 
 Released on Aug 3, 2018.
 
 - Added JVM memory option to backends [:issue:`199` by :committer:`lovit`]
 
-`Version 0.5.0 <https://github.com/konlpy/konlpy/releases/tag/v0.5.0>`_
+`Version 0.5.0 <https://github.com/gitspider/konlpy/releases/tag/v0.5.0>`_
 -----------------------------------------------------------------------
 
 Released on Aug 1, 2018.
@@ -27,28 +27,28 @@ Released on Aug 1, 2018.
     Previous `dicpath` in Komoran's API is now `modelpath`.
     The name was changed to prevent confusion with the newly added `userdic`.
 
-`Version 0.4.4 <https://github.com/konlpy/konlpy/releases/tag/v0.4.4>`_
+`Version 0.4.4 <https://github.com/gitspider/konlpy/releases/tag/v0.4.4>`_
 -----------------------------------------------------------------------
 
 Released on Oct 25, 2015.
 
 - Included tagsets for each morpheme analyzer [:commit:`26a39d7`]
 
-`Version 0.4.3 <https://github.com/konlpy/konlpy/releases/tag/v0.4.3>`_
+`Version 0.4.3 <https://github.com/gitspider/konlpy/releases/tag/v0.4.3>`_
 -----------------------------------------------------------------------
 
 Released on Feb 27, 2015.
 
 - Fixed conditional requirement bug for pip3 [:issue:`50`]
 
-`Version 0.4.2 <https://github.com/konlpy/konlpy/releases/tag/v0.4.2>`_
+`Version 0.4.2 <https://github.com/gitspider/konlpy/releases/tag/v0.4.2>`_
 -----------------------------------------------------------------------
 
 Released on Feb 25, 2015.
 
 - Updated Korean documents (i.e., include missing .mo files)
 
-`Version 0.4.1 <https://github.com/konlpy/konlpy/releases/tag/v0.4.1>`_
+`Version 0.4.1 <https://github.com/gitspider/konlpy/releases/tag/v0.4.1>`_
 -----------------------------------------------------------------------
 
 Released on Feb 25, 2015.
@@ -59,7 +59,7 @@ Released on Feb 25, 2015.
 - Fixed pip3 installation error [:issue:`43`]
 - Include Komoran dictionaries in package [:commit:`796c156`]
 
-`Version 0.4.0 <https://github.com/konlpy/konlpy/releases/tag/v0.4.0>`_
+`Version 0.4.0 <https://github.com/gitspider/konlpy/releases/tag/v0.4.0>`_
 -----------------------------------------------------------------------
 
 Released on Jan 18, 2015.
@@ -74,7 +74,7 @@ Released on Jan 18, 2015.
 - Fixed concordance bug for Python2 [:commit:`6caa929`]
 - Fixed pprint bug on Windows [:issue:`37`]
 
-`Version 0.3.3 <https://github.com/konlpy/konlpy/releases/tag/v0.3.3>`_
+`Version 0.3.3 <https://github.com/gitspider/konlpy/releases/tag/v0.3.3>`_
 -----------------------------------------------------------------------
 
 Released on Sep 7, 2014.
@@ -82,7 +82,7 @@ Released on Sep 7, 2014.
 - Added Python 3 support [:issue:`17` by :committer:`hyeshik`]
 - Created `KoNLPy mailing list at Google Groups <https://groups.google.com/forum/#!forum/konlpy>`_
 
-`Version 0.3.2 <https://github.com/konlpy/konlpy/releases/tag/v0.3.2>`_
+`Version 0.3.2 <https://github.com/gitspider/konlpy/releases/tag/v0.3.2>`_
 -----------------------------------------------------------------------
 
 Released on Sep 4, 2014.
@@ -92,7 +92,7 @@ Released on Sep 4, 2014.
 - Fixed Kkma memory error for Mac OS X [:issue:`13` by :committer:`combacsa`]
     - `java.lang.OutOfMemoryError` in Mac OS X if heap memory is too small
 
-`Version 0.3.1 <https://github.com/konlpy/konlpy/releases/tag/v0.3.1>`_
+`Version 0.3.1 <https://github.com/gitspider/konlpy/releases/tag/v0.3.1>`_
 -----------------------------------------------------------------------
 
 Released on Sep 4, 2014.
@@ -105,7 +105,7 @@ Released on Sep 4, 2014.
 - Modified Hannanum `morph` method to `analyze`
 - Uploaded `KoNLPy to PyPI <https://pypi.python.org/pypi/konlpy>`_
 
-`Version 0.3.0 <https://github.com/konlpy/konlpy/releases/tag/v0.3.0>`_
+`Version 0.3.0 <https://github.com/gitspider/konlpy/releases/tag/v0.3.0>`_
 -----------------------------------------------------------------------
 
 Released on Aug 25, 2014.
@@ -123,7 +123,7 @@ Released on Aug 25, 2014.
 
     The versions below do not have documents available, and are not backwards-compatible.
 
-`Version 0.2 <https://github.com/konlpy/konlpy/releases/tag/v0.2>`_
+`Version 0.2 <https://github.com/gitspider/konlpy/releases/tag/v0.2>`_
 -------------------------------------------------------------------
 
 Released on Aug 1, 2014.
@@ -135,7 +135,7 @@ Released on Aug 1, 2014.
 - Fixed Hannanum module parsing error when '/', '+' are in text
 - Fixed Hannanum module text indexing error (where results get truncated)
 
-`Version 0.1 <https://github.com/konlpy/konlpy/releases/tag/v0.1>`_
+`Version 0.1 <https://github.com/gitspider/konlpy/releases/tag/v0.1>`_
 -------------------------------------------------------------------
 
 Released on Jun 15, 2014.

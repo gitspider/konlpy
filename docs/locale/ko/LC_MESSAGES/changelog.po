@@ -17,7 +17,7 @@ msgid "Change logs"
 msgstr ""
 
 #: ../../changelog.rst:4
-msgid "`Version 0.5.1 <https://github.com/konlpy/konlpy/releases/tag/v0.5.1>`_"
+msgid "`Version 0.5.1 <https://github.com/gitspider/konlpy/releases/tag/v0.5.1>`_"
 msgstr ""
 
 #: ../../changelog.rst:6
@@ -29,7 +29,7 @@ msgid "Added JVM memory option to backends [:issue:`199` by :committer:`lovit`]"
 msgstr ""
 
 #: ../../changelog.rst:11
-msgid "`Version 0.5.0 <https://github.com/konlpy/konlpy/releases/tag/v0.5.0>`_"
+msgid "`Version 0.5.0 <https://github.com/gitspider/konlpy/releases/tag/v0.5.0>`_"
 msgstr ""
 
 #: ../../changelog.rst:13
@@ -89,7 +89,7 @@ msgid ""
 msgstr ""
 
 #: ../../changelog.rst:31
-msgid "`Version 0.4.4 <https://github.com/konlpy/konlpy/releases/tag/v0.4.4>`_"
+msgid "`Version 0.4.4 <https://github.com/gitspider/konlpy/releases/tag/v0.4.4>`_"
 msgstr ""
 
 #: ../../changelog.rst:33
@@ -101,7 +101,7 @@ msgid "Included tagsets for each morpheme analyzer [:commit:`26a39d7`]"
 msgstr ""
 
 #: ../../changelog.rst:38
-msgid "`Version 0.4.3 <https://github.com/konlpy/konlpy/releases/tag/v0.4.3>`_"
+msgid "`Version 0.4.3 <https://github.com/gitspider/konlpy/releases/tag/v0.4.3>`_"
 msgstr ""
 
 #: ../../changelog.rst:40
@@ -113,7 +113,7 @@ msgid "Fixed conditional requirement bug for pip3 [:issue:`50`]"
 msgstr ""
 
 #: ../../changelog.rst:45
-msgid "`Version 0.4.2 <https://github.com/konlpy/konlpy/releases/tag/v0.4.2>`_"
+msgid "`Version 0.4.2 <https://github.com/gitspider/konlpy/releases/tag/v0.4.2>`_"
 msgstr ""
 
 #: ../../changelog.rst:47 ../../changelog.rst:54
@@ -125,7 +125,7 @@ msgid "Updated Korean documents (i.e., include missing .mo files)"
 msgstr ""
 
 #: ../../changelog.rst:52
-msgid "`Version 0.4.1 <https://github.com/konlpy/konlpy/releases/tag/v0.4.1>`_"
+msgid "`Version 0.4.1 <https://github.com/gitspider/konlpy/releases/tag/v0.4.1>`_"
 msgstr ""
 
 #: ../../changelog.rst:56
@@ -149,7 +149,7 @@ msgid "Include Komoran dictionaries in package [:commit:`796c156`]"
 msgstr ""
 
 #: ../../changelog.rst:63
-msgid "`Version 0.4.0 <https://github.com/konlpy/konlpy/releases/tag/v0.4.0>`_"
+msgid "`Version 0.4.0 <https://github.com/gitspider/konlpy/releases/tag/v0.4.0>`_"
 msgstr ""
 
 #: ../../changelog.rst:65
@@ -195,7 +195,7 @@ msgid "Fixed pprint bug on Windows [:issue:`37`]"
 msgstr ""
 
 #: ../../changelog.rst:78
-msgid "`Version 0.3.3 <https://github.com/konlpy/konlpy/releases/tag/v0.3.3>`_"
+msgid "`Version 0.3.3 <https://github.com/gitspider/konlpy/releases/tag/v0.3.3>`_"
 msgstr ""
 
 #: ../../changelog.rst:80
@@ -213,7 +213,7 @@ msgid ""
 msgstr ""
 
 #: ../../changelog.rst:86
-msgid "`Version 0.3.2 <https://github.com/konlpy/konlpy/releases/tag/v0.3.2>`_"
+msgid "`Version 0.3.2 <https://github.com/gitspider/konlpy/releases/tag/v0.3.2>`_"
 msgstr ""
 
 #: ../../changelog.rst:88 ../../changelog.rst:98
@@ -241,7 +241,7 @@ msgid "`java.lang.OutOfMemoryError` in Mac OS X if heap memory is too small"
 msgstr ""
 
 #: ../../changelog.rst:96
-msgid "`Version 0.3.1 <https://github.com/konlpy/konlpy/releases/tag/v0.3.1>`_"
+msgid "`Version 0.3.1 <https://github.com/gitspider/konlpy/releases/tag/v0.3.1>`_"
 msgstr ""
 
 #: ../../changelog.rst:100
@@ -273,7 +273,7 @@ msgid "Uploaded `KoNLPy to PyPI <https://pypi.python.org/pypi/konlpy>`_"
 msgstr ""
 
 #: ../../changelog.rst:109
-msgid "`Version 0.3.0 <https://github.com/konlpy/konlpy/releases/tag/v0.3.0>`_"
+msgid "`Version 0.3.0 <https://github.com/gitspider/konlpy/releases/tag/v0.3.0>`_"
 msgstr ""
 
 #: ../../changelog.rst:111
@@ -321,7 +321,7 @@ msgid ""
 msgstr ""
 
 #: ../../changelog.rst:127
-msgid "`Version 0.2 <https://github.com/konlpy/konlpy/releases/tag/v0.2>`_"
+msgid "`Version 0.2 <https://github.com/gitspider/konlpy/releases/tag/v0.2>`_"
 msgstr ""
 
 #: ../../changelog.rst:129
@@ -353,7 +353,7 @@ msgid "Fixed Hannanum module text indexing error (where results get truncated)"
 msgstr ""
 
 #: ../../changelog.rst:139
-msgid "`Version 0.1 <https://github.com/konlpy/konlpy/releases/tag/v0.1>`_"
+msgid "`Version 0.1 <https://github.com/gitspider/konlpy/releases/tag/v0.1>`_"
 msgstr ""
 
 #: ../../changelog.rst:141
@@ -374,7 +374,7 @@ msgstr ""
 #~ msgid "Version in development."
 #~ msgstr ""
 
-#~ msgid "`Version 0.5.0 <https://github.com/konlpy/konlpy/releases/tag/v0.5.0>`_"
+#~ msgid "`Version 0.5.0 <https://github.com/gitspider/konlpy/releases/tag/v0.5.0>`_"
 #~ msgstr ""
 
 #~ msgid "`Version 0.3.3 <https://github.com/e9t/konlpy/releases/tag/v0.3.3>`_"

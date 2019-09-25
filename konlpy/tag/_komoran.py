@@ -20,14 +20,14 @@ class Komoran():
 
         >>> cat /tmp/dic.txt  # Place a file in a location of your choice
         코모란	NNP
-        오픈소스	NNG
+        원천공개	NNG
         바람과 함께 사라지다	NNP
         >>> from konlpy.tag import Komoran
         >>> komoran = Komoran(userdic='/tmp/dic.txt')
-        >>> print(komoran.morphs(u'우왕 코모란도 오픈소스가 되었어요'))
-        ['우왕', '코모란', '도', '오픈소스', '가', '되', '었', '어요']
-        >>> print(komoran.nouns(u'오픈소스에 관심 많은 멋진 개발자님들!'))
-        ['오픈소스', '관심', '개발자']
+        >>> print(komoran.morphs(u'우왕 코모란도 원천공개가 되었어요'))
+        ['우왕', '코모란', '도', '원천공개', '가', '되', '었', '어요']
+        >>> print(komoran.nouns(u'원천공개에 관심 많은 멋진 개발자님들!'))
+        ['원천공개', '관심', '개발자']
         >>> print(komoran.pos(u'혹시 바람과 함께 사라지다 봤어?'))
         [('혹시', 'MAG'), ('바람과 함께 사라지다', 'NNP'), ('보', 'VV'), ('았', 'EP'), ('어', 'EF'), ('?', 'SF')]
 
@@ -105,7 +105,7 @@ class Komoran():
         try:
             self.jki = komoranJavaPackage.Komoran(self.modelpath)
         except TypeError:  # Package kr.lucypark.komoran.KomoranInterface is not Callable
-            raise IOError("Cannot access komoran-dic. Please leave an issue at https://github.com/konlpy/konlpy/issues")
+            raise IOError("Cannot access komoran-dic. Please leave an issue at https://github.com/gitspider/konlpy/issues")
 
         if userdic:
             self.jki.setUserDic(userdic)

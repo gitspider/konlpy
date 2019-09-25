@@ -20,7 +20,7 @@ msgid ""
 "KoNLPy has tests to evaulate its quality. To perform a test, use the code "
 "below."
 msgstr ""
-"KoNLPy 결과물의 정합성을 확인하기 위한 테스트가 몇 가지 있습니다. 테스트를 수행하기 위해서는 다음의 코드를 실행해주세요."
+"KoNLPy 결과물의 정합성을 확인하기 위한 테스트가 몇 가지 있습니다. 테스트를 수행하기 위해서는 다음의 코드를 실행해주십시오."
 
 #: ../../test.rst:16
 msgid ""
@@ -32,7 +32,7 @@ msgstr ""
 #: ../../test.rst:20
 msgid ""
 "To see known bugs/issues, see `here "
-"<https://github.com/konlpy/konlpy/labels/bug>`_."
+"<https://github.com/gitspider/konlpy/labels/bug>`_."
 msgstr ""
 
 #~ msgid ""

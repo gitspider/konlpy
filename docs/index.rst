@@ -23,27 +23,27 @@ For specific descriptions of each module, go see the :ref:`api` documents.
     >>> from konlpy.tag import Kkma
     >>> from konlpy.utils import pprint
     >>> kkma = Kkma()
-    >>> pprint(kkma.sentences(u'네, 안녕하세요. 반갑습니다.'))
-    [네, 안녕하세요..,
+    >>> pprint(kkma.sentences(u'예, 안녕하십니까. 반갑습니다.'))
+    [예, 안녕하십니까..,
      반갑습니다.]
-    >>> pprint(kkma.nouns(u'질문이나 건의사항은 깃헙 이슈 트래커에 남겨주세요.'))
+    >>> pprint(kkma.nouns(u'질문이나 건의사항은 이슈 트래커에 남겨주십시오.'))
     [질문,
      건의,
      건의사항,
      사항,
-     깃헙,
+     Github,
      이슈,
      트래커]
-    >>> pprint(kkma.pos(u'오류보고는 실행환경, 에러메세지와함께 설명을 최대한상세히!^^'))
-    [(오류, NNG),
+    >>> pprint(kkma.pos(u'오유보고는 실행환경, 오튜통보문과 함께 설명을 최대한 상세히!^^'))
+    [(오유, NNG),
      (보고, NNG),
      (는, JX),
      (실행, NNG),
      (환경, NNG),
      (,, SP),
-     (에러, NNG),
-     (메세지, NNG),
-     (와, JKM),
+     (오유, NNG),
+     (통보문, NNG),
+     (과, JKM),
      (함께, MAG),
      (설명, NNG),
      (을, JKO),
@@ -68,7 +68,7 @@ The three main philosophies of this project are:
 - Make it easy. For humans.
 - :ref:`"Democracy on the web works." <contribute>`
 
-Please `report <https://github.com/konlpy/konlpy/issues>`_ when you think any have gone stale.
+Please `report <https://github.com/gitspider/konlpy/issues>`_ when you think any have gone stale.
 
 License
 -------
@@ -103,9 +103,9 @@ but it will continuously evolve and you are invited to participate!
 
 Found a bug?
 Have a good idea for improving KoNLPy?
-Visit the `KoNLPy GitHub page <https://github.com/konlpy/konlpy>`_
-and `suggest an idea <https://github.com/konlpy/konlpy/issues>`_
-or `make a pull request <https://github.com/konlpy/konlpy/pulls>`_.
+Visit the `KoNLPy GitHub page <https://github.com/gitspider/konlpy>`_
+and `suggest an idea <https://github.com/gitspider/konlpy/issues>`_
+or `make a pull request <https://github.com/gitspider/konlpy/pulls>`_.
 
 You are also welcome to join
 our `gitter <https://gitter.im/konlpy/konlpy>`_
