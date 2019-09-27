@@ -1,7 +1,7 @@
 @title	connection_table
 @version	v1.001
 @copyright	(C) wjlee in kaist, 1995-2010
-@author	이운재
+@author	
 @date	2000.09.25
 @editor	김선배, 박상원
 
